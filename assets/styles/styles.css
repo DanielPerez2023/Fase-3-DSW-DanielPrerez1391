@@ -147,6 +147,10 @@ a:hover {
   color: #FFFFFF;
   font-family: NotoSansRegular;
 }
+.bg-color-aside{
+  background-color: #7083F5;
+  color: #FFFFFF;
+}
 
 .footer{
   font-family: NotoSansRegular;
@@ -226,6 +230,26 @@ a:hover {
   /* width: 90px;
   height: 90px; */
   background-color:#7083F5;
+  color: white;
+}
+
+.menu-aside{
+  border-radius: 1.5rem;
+  justify-content: center;
+  align-items: center;
+  /* width: 90px;
+  height: 90px; */
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.menu-aside:hover{
+  border-radius: 1.5rem;
+  justify-content: center;
+  align-items: center;
+  /* width: 90px;
+  height: 90px; */
+  background-color: #473F44;
   color: white;
 }
 
